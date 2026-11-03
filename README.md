@@ -12,7 +12,7 @@
 
 ## Screenshot
 
-![PDF to JPG Converter Screenshot](Screenshot.png)
+![PDF to JPG Converter Screenshot](screenshot.png)
 
 ---
 
@@ -142,7 +142,7 @@ pdf-to-jpg/
 ├── requirements.txt     # Python dependencies
 ├── README.md            # This file
 ├── LICENSE              # MIT License
-├── Screenshot.png       # Application screenshot
+├── screenshot.png       # Application screenshot
 └── .gitignore
 ```
 
