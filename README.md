@@ -16,6 +16,12 @@
 
 ---
 
+## ⬇️ Download
+
+**[Download the latest release](https://github.com/fateh-io/pdf-to-jpg/releases/latest)** — Windows `.exe`, no Python required.
+
+---
+
 ## Features
 
 - **Convert all pages or a custom range** — e.g. `1-3, 5, 8-10`
